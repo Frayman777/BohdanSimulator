@@ -21,7 +21,7 @@ time.sleep(1)
 print("What would you like to do now?")
 option2=int(input("You can eat(1) or take a nap(2)."))
 if option2==1:
-    print("You eat another delicious mejackmeal.")
+    print("You eat a delicious mejackmeal.")
     calories+=10
 elif option2==2:
     print("You take a quick nap and wake up well rested.")
@@ -32,7 +32,7 @@ time.sleep(1)
 print("What would you like to do this time?")
 option3=int(input("You can eat(1) or go on dysania(2)."))
 if option3==1:
-    print("You eat a third delicous mejackmeal.")
+    print("You eat a delicous mejackmeal.")
     calories+=10
 elif option3==2:
     print("You go on dysania and have a fun time.")
