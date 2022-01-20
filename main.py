@@ -1,7 +1,7 @@
 import os
 import sys
 import time
-"""Bohdan Simulator
+"""Bohdan Simulator 1.1
 made by Tre"""
 calories=0
 print("You are Bohdan. You wake up and get out of bed.")
